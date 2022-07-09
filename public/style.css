@@ -1,0 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+.nav-icon {
+  height: 50px;
+  margin-bottom: 5px;
+}
