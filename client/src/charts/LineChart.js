@@ -2,8 +2,6 @@ import React from 'react'
 import "./styles.css";
 import Chart from 'chart.js/auto'; //not read but required to solve category scale error
 import { Line } from "react-chartjs-2";
-import Plugin from './plugin'
-
 const data = {
   labels: ["Jan ", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"],
   datasets: [

@@ -1,3 +1,5 @@
+//plugin to fix in identical backgroundColor
+
 const Plugin = {
     id: 'custom_canvas_background_color',
     beforeDraw: (chart) => {
